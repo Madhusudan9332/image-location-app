@@ -4,7 +4,8 @@
 ### npm init -y
 ### npm install express mongoose body-parser
 
-## Structure 
+## Public Directory Structure
+```
 public/
 ├── images/
 │   ├── image1.jpg
@@ -13,6 +14,7 @@ public/
 ├── styles.css
 ├── script.js
 └── index.html
+```
 ### Step 7: Run the Application
 1. Start MongoDB in a separate terminal:
 ```bash
