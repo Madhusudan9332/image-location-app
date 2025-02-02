@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+select, button {
+    margin: 10px;
+    padding: 8px;
+}
+
+.blur {
+    filter: blur(10px);
+    transition: filter 0.5s ease;
+}
+
+#imageContainer {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 600px;
+    border-radius: 8px;
+}
